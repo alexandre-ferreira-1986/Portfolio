@@ -6,7 +6,9 @@ This repository was created with the purpose of showcasing my knowledge, skills,
 
 In this repository, you will discover a series of projects I have developed, covering different technologies and domains. These projects not only reflect my ability to apply practical concepts but also showcase my creativity and dedication.
 
-- [NUMPY Basic]: Project that I created in Youtube to teach the basics of Numpy.
+---
+- **[NUMPY Basic]: Project that I created in Youtube to teach the basics of Numpy.**
+---
 
 In addition to the projects hosted here, I also have several other projects in different repositories on my GitHub profile. You can explore those repositories to see more of my work, and I will continue to add more projects to this portfolio in the near future.
 
@@ -14,7 +16,9 @@ In addition to the projects hosted here, I also have several other projects in d
 
 In addition to personal projects, this repository also contains solutions to challenges and exercises I encountered during my learning journey. This demonstrates my problem-solving ability and the application of theoretical concepts in real-world situations. Some examples of exercises you will find here are:
 
-- [CS50]: Exercises from the program CS50 in Python, from Harvard School.
+---
+- **[CS50]: Exercises from the program CS50 in Python, from Harvard School.**
+---
 
 ## Ideas and Notes
 
