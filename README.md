@@ -13,7 +13,9 @@ This repository was created with the purpose of showcasing my knowledge, skills,
 In this repository, you will discover a series of projects I have developed, covering different technologies and domains. These projects not only reflect my ability to apply practical concepts but also showcase my creativity and dedication.
 
 ---
-- **[NUMPY Basic]: Project that I created in Youtube to teach the basics of Numpy.**
+- **Time Series Analysis Project:** https://github.com/alexandre-ferreira-1986/TCC_puc_minas
+-   - Conclusion course project on my Graduation Degree.
+- **[NUMPY Basic]: Project that I created on Youtube to teach the basics of Numpy.**
 ---
 
 In addition to the projects hosted here, I also have several other projects in different repositories on my GitHub profile. You can explore those repositories to see more of my work, and I will continue to add more projects to this portfolio in the near future.
