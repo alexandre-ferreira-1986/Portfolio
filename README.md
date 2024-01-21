@@ -16,6 +16,7 @@ In this repository, you will discover a series of projects I have developed, cov
 - **Time Series Analysis Project:** https://github.com/alexandre-ferreira-1986/TCC_puc_minas
 -   - Conclusion course project on my Graduation Degree.
 - **[NUMPY Basic]: Project that I created on Youtube to teach the basics of Numpy.**
+- **Google Analytics Capstone** https://github.com/alexandre-ferreira-1986/Google_Data_Analytics_Capstone
 ---
 
 In addition to the projects hosted here, I also have several other projects in different repositories on my GitHub profile. You can explore those repositories to see more of my work, and I will continue to add more projects to this portfolio in the near future.
