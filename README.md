@@ -17,6 +17,18 @@ In this repository, you will discover a series of projects I have developed, cov
    - Conclusion course project on my Graduation Degree.
 2. **[NUMPY Basic]: Project that I created on Youtube to teach the basics of Numpy.**
 3. **Google Analytics Capstone** [click here](https://github.com/alexandre-ferreira-1986/Google_Data_Analytics_Capstone)
+4. **My GPTs**
+
+
+---
+
+## IMAGES
+
+<details>
+  <summary> MyGPT </summary>
+  <img src="https://github.com/alexandre-ferreira-1986/Portfolio/blob/main/MyGPT/GPT_tela_02.png">
+</details>
+
 ---
 
 In addition to the projects hosted here, I also have several other projects in different repositories on my GitHub profile. You can explore those repositories to see more of my work, and I will continue to add more projects to this portfolio in the near future.
